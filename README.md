@@ -1,4 +1,4 @@
-# Preeti Reduc App
+# Preeti Redux App
 
 ## Getting started steps 
 
